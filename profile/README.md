@@ -13,8 +13,7 @@ CredenceAI is developing a credibility engine that:
 - **Classifies stance** (support / refute / unclear).
 - **Delivers verdicts** with clear reasoning.
 
-Our long-term vision is to become the **credibility layer for the internet** —  
-a standard as recognizable as SSL certificates or verified checkmarks.
+Our long-term vision is to become the **credibility layer for the internet** — a standard as recognizable as SSL certificates or verified checkmarks.
 
 ---
 
